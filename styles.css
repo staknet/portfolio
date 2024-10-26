@@ -310,6 +310,10 @@ button {
 	border-radius: 5px;
 }
 
+.left-column .section .post .read-more a:hover {
+	color: #fff;
+}
+
 .right-column {
 	flex: 3;
 	padding: 20px;
