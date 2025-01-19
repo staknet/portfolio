@@ -8,7 +8,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #fff;
+	color: #ffffff;
 }
 
 a:hover {
@@ -310,7 +310,7 @@ button {
 	border-radius: 5px;
 }
 
-.left-column .section .post .read-more a:hover {
+.read-more a:hover {
 	color: #fff;
 }
 
