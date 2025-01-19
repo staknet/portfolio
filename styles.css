@@ -310,7 +310,7 @@ button {
 	border-radius: 5px;
 }
 
-.left-column .section .post .read-more a:hover {
+.read-more:hover {
 	color: #fff;
 }
 
